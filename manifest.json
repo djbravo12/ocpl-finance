@@ -1,0 +1,54 @@
+{
+  "name": "OCPL Finance",
+  "short_name": "OCPL Finance",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "The World's 1st Blockchain Integrated Loan Application",
+  "lang": " The default language of your application",
+  "dir": "auto",
+  "theme_color": "#1e202a",
+  "background_color": "#1e202a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://ocpl.tech/assets/ocpllogo-0d9039c9.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://ocpl.tech/assets/ocpllogo-0d9039c9.webp",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
+      "sizes": "2880x1800",
+      "type": "image/png",
+      "description": "A screenshot of the home page"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "windows",
+      "url": "."
+    }
+  ],
+  "offline_enabled": false,
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "About Us",
+      "url": "/#aboutUs",
+      "description": "Read about OCPL Finance"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/#ContactUS",
+      "description": "Contect with us more Details"
+    }
+  ]
+}
